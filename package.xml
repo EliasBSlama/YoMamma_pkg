@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>YoMamma_pkg</name>
+  <version>0.0.0</version>
+  <description>The YoMamma_pkg package</description>
+
+  <maintainer email="ebensl20@student.aau.dk">Elias B. Slama</maintainer>
+
+  <license>MIT</license>
+
+  <author email="ebensl20@student.aau.dk">Elias B. Slama</author> -->
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+
+  <export>
+
+  </export>
+</package>
